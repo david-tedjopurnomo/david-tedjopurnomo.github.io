@@ -5,7 +5,7 @@ permalink: /publication/2020-tkde-survey
 excerpt: 'In this paper, we performed a survey on model deep neural network applications for the task of traffic prediction. We compared a large selection of state-of-the-art research based on the models and the datasets they use.'
 date: 2020-06-09
 venue: '2020 IEEE Transactions on Knowledge and Data Engineering (TKDE)'
-paperurl: 'http://david-tedjopurnomo.github.io/files/papers/2020-tkde-survey'
+paperurl: 'https://doi.org/10.1109/TKDE.2020.3001195'
 citation: 'David Alexander Tedjopurnomo, Zhifeng Bao, Baihua Zheng, Farhana Murtaza Choudhury, and A. K. Qin. "A Survey on Modern Deep Neural Network for Traffic Prediction: Trends, Methods and Challenges," in IEEE Transactions on Knowledge and Data Engineering, vol. 34, no. 4, pp. 1544-1561, 1 April 2022, doi: 10.1109/TKDE.2020.3001195.'
 ---
 
