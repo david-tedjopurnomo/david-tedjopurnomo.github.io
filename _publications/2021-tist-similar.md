@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2021-tist-similar
 excerpt: 'In this work, we explored an extension of similar trajectory search by considering both the temporal factors alongside the spatial factors.'
 date: 2021-12-11
-venue: 'ACM Transactions on Intelligent Systems and Technology (ACM TIST)'
+venue: '2021 ACM Transactions on Intelligent Systems and Technology (TIST 2021)'
 paperurl: 'http://david-tedjopurnomo.github.io/files/papers/2021-tist-similar'
-citation: 'David Alexander Tedjopurnomo, Xiucheng Li, Zhifeng Bao, Gao Cong, Farhana Choudhury, and A. K. Qin. Similar trajectory search with spatio-temporal deep representation learning. ACM Transactions on Intelligent Systems and Technology, 12(6), 2021.'
+citation: 'David Alexander Tedjopurnomo, Xiucheng Li, Zhifeng Bao, Gao Cong, Farhana Choudhury, and A. K. Qin. Similar trajectory search with spatio-temporal deep representation learning. ACM Transactions on Intelligent Systems and Technology, 12(6), 2021. https://doi.org/10.1145/3466687'
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lht8ngoGcrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

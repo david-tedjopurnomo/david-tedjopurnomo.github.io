@@ -6,7 +6,7 @@ excerpt: "This work is the first work on equitable bus network optimization. In 
 date: 2022-06-20
 venue: 'Proceedings of the 2022 ACM Conference on Fairness, Accountability and Transparency (FAccT 2022)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3531146.3533092'
-citation: 'David Tedjopurnomo, Zhifeng Bao, Farhana Choudhury, Hui Luo, and A. K. Qin. Equitable public bus network optimization for social good: A case study of singapore. In 2022 ACM Conference on Fairness, Accountability, and Transparency, page 278–288, 2022.'
+citation: 'David Tedjopurnomo, Zhifeng Bao, Farhana Choudhury, Hui Luo, and A. K. Qin. "Equitable public bus network optimization for social good: A case study of singapore." In 2022 ACM Conference on Fairness, Accountability, and Transparency, page 278–288, 2022.'
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YrOCirVNqZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
