@@ -2,11 +2,11 @@
 title: "Equitable Public Bus Network Optimization for Social Good: A Case Study of Singapore"
 collection: publications
 permalink: /publication/2022-facct-equitable
-excerpt: 'In this work, we explored an extension of similar trajectory search by considering both the temporal factors alongside the spatial factors.'
-date: 2021-12-11
-venue: 'ACM Transactions on Intelligent Systems and Technology (ACM TIST)'
-paperurl: 'http://david-tedjopurnomo.github.io/files/papers/2021-tist-similar'
-citation: 'David Alexander Tedjopurnomo, Xiucheng Li, Zhifeng Bao, Gao Cong, Farhana Choudhury, A. K. Qin'
+excerpt: 'This work is the first work on equitable bus network optimization. In this work, we formulated the first-ever notion of bus network equity. We then explored several model's performance on bus network optimization in terms of both bus network efficiency and equity.'
+date: 2022-06-20
+venue: 'Proceedings of the 2022 ACM Conference on Fairness, Accountability and Transparency (FAccT 2022)'
+paperurl: 'http://david-tedjopurnomo.github.io/files/papers/2022-facct-equitable.pdf'
+citation: 'David Tedjopurnomo, Zhifeng Bao, Farhana Choudhury, Hui Luo, and A. K. Qin. Equitable public bus network optimization for social good: A case study of singapore. In 2022 ACM Conference on Fairness, Accountability, and Transparency, page 278–288, 2022.'
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lht8ngoGcrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
