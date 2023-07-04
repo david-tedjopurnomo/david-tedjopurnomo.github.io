@@ -5,8 +5,8 @@ permalink: /publication/2023-arxiv-trafformer
 excerpt: 'In this work, we explored the novel problem of long-term traffic prediction and used a modified Transformer model to tackle this task.'
 date: 2023-02-24
 venue: 'arXiv'
-paperurl: 'http://david-tedjopurnomo.github.io/files/papers/2023-arxiv-trafformer.pdf'
-citation: 'David Alexander Tedjopurnomo, Farhana Choudhury, A. K. Qin'
+paperurl: 'https://arxiv.org/abs/2302.12388'
+citation: 'David Alexander Tedjopurnomo, Farhana Choudhury, A. K. Qin. "TrafFormer: A Transformer Model for Prediction Long-term Traffic." arXiv preprint arXiv:2302.12388 (2023).'
 ---
 
 Traffic prediction is a flourishing research field due to its importance in human mobility in the urban
