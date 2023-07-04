@@ -5,12 +5,10 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Experience 
-
-### Visiting Scholar
+## Visiting Scholar
 Visiting scholar at Scale@NTU laboratory from August 2019 - January 2020.
 
-### External reviewer
+## External reviewer
 - 2019: ICDE, VLDB
 - 2020: ICDE
 - 2021: VLDB, ACM TDS, KDD, SIGIR
