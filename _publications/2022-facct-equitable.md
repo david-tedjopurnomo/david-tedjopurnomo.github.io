@@ -2,7 +2,7 @@
 title: "Equitable Public Bus Network Optimization for Social Good: A Case Study of Singapore"
 collection: publications
 permalink: /publication/2022-facct-equitable
-excerpt: 'This work is the first work on equitable bus network optimization. In this work, we formulated the first-ever notion of bus network equity. We then explored several model's performance on bus network optimization in terms of both bus network efficiency and equity.'
+excerpt: "This work is the first work on equitable bus network optimization. In this work, we formulated the first-ever notion of bus network equity. We then explored several model's performance on bus network optimization in terms of both bus network efficiency and equity."
 date: 2022-06-20
 venue: 'Proceedings of the 2022 ACM Conference on Fairness, Accountability and Transparency (FAccT 2022)'
 paperurl: 'http://david-tedjopurnomo.github.io/files/papers/2022-facct-equitable.pdf'
