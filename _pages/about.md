@@ -16,7 +16,7 @@ I am David Alexander Tedjopurnomo, a Ph.D. graduate from RMIT University, Austra
 March 2018 - January 2023
 
 ### Master of Information Technology - The University of Melbourne 
-February 2016 - December 201
+February 2016 - December 2017
 
 ### Bachelor of Information Technology - The University of Newcastle
 August 2012 - September 2014
