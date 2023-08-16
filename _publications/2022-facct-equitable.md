@@ -15,6 +15,6 @@ Public bus transport is a major backbone of many cities’ socioeconomic activit
 
 DOI: https://doi.org/10.1145/3531146.3533092
 
-[Download paper here](http://david-tedjopurnomo.github.io/files/papers/2022-facct-equitable.pdf)
+[Download paper here](http://david-tedjopurnomo.github.io/files/docs/2022-facct-equitable.pdf)
 
 [Download slides here](http://david-tedjopurnomo.github.io/files/slides/equitable_bus_long.pptx)
