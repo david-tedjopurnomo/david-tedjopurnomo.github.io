@@ -8,12 +8,15 @@ author_profile: true
 ## Visiting Scholar
 Visiting scholar at Scale@NTU laboratory from August 2019 - January 2020.
 
+## Conference 
+- PC member for ADC 2023 
+
 ## External reviewer
 - 2019: ICDE, VLDB
 - 2020: ICDE
 - 2021: VLDB, ACM TDS, KDD, SIGIR
 - 2022: ICDE, VLDBJ, WSDM
-- 2023: AAI, DSE, IEEE TIST, IEEE CIC
+- 2023: AAI, DSE, IEEE TIST, IEEE CIC, ADC
 
 ## Awards & Scholarships
 
