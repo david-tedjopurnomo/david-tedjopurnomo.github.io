@@ -15,7 +15,7 @@ Achieved a 4.00 out of 5.00 mean Good Teaching Score (GTS). Exceeding the school
 
 April 2023 - Present
 
----
+<hr style="border:2px solid gray">
 
 ### [Programming Bootcamp 1 (COSC2801)](http://www1.rmit.edu.au/courses/054079)
 
@@ -27,7 +27,7 @@ Achieved a 4.02 out of 5.00 mean Good Teaching Score (GTS). Exceeding the school
 
 February 2023 - Present 
 
----
+<hr style="border:2px solid gray">
 
 ### [Research Project (COMP90055)](https://handbook.unimelb.edu.au/2023/subjects/comp90055)
 
@@ -37,7 +37,7 @@ This is a research-based project for master's degree where students are involved
 
 February 2023 - April 2023
 
----
+<hr style="border:2px solid gray">
 
 ### [Advanced Database Systems (COMP90050)](https://handbook.unimelb.edu.au/2023/subjects/comp90050)
 
@@ -47,7 +47,7 @@ This subject covers technologies used in advanced databas systems, including top
 
 June 2023 - August 2023 
 
----
+<hr style="border:2px solid gray">
 
 ### [Performance Management Foundations (MANU2469)](http://www1.rmit.edu.au/browse/;CURPOS=1?STYPE=ENTIRE&CLOCATION=Study+at+RMIT%2F&QRY=%2Btype%3Dflexible+%2Bsubtype%3Dheparta+%2Bkeywords%3D%28MANU2469%29+&course=MANU2469&title=&Search=Search)
 
@@ -57,7 +57,7 @@ In this course students learn how to analyse data captured from engineering ente
 
 February 2023 - April 2023
 
----
+<hr style="border:2px solid gray">
 
 ### [Programming and Software Development (COMP90041)](https://handbook.unimelb.edu.au/2017/subjects/comp90041)
 
