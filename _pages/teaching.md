@@ -11,7 +11,11 @@ author_profile: true
 
 In this course, students explore how to build software, through learning how to build a simple fully functional data-driven website. Students learn about fundamental concepts in User-Centred Design (UX/UI) and Database System that explore the front-end-to-back-end of software development. 
 
+___
+
 Achieved a 4.00 out of 5.00 mean Good Teaching Score (GTS). Exceeding the school, college and RMIT mean GTS score. 
+
+***
 
 April 2023 - Present
 
