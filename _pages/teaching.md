@@ -15,6 +15,8 @@ Achieved a 4.00 out of 5.00 mean Good Teaching Score (GTS). Exceeding the school
 
 April 2023 - Present
 
+---
+
 ### [Programming Bootcamp 1 (COSC2801)](http://www1.rmit.edu.au/courses/054079)
 
 ### RMIT University
@@ -25,6 +27,8 @@ Achieved a 4.02 out of 5.00 mean Good Teaching Score (GTS). Exceeding the school
 
 February 2023 - Present 
 
+---
+
 ### [Research Project (COMP90055)](https://handbook.unimelb.edu.au/2023/subjects/comp90055)
 
 ### The University of Melbourne 
@@ -32,6 +36,8 @@ February 2023 - Present
 This is a research-based project for master's degree where students are involved in in-depth investigation of a significant problem related to computing. The subject also provides students with skills and knowledge for analysing and solving problems, and enhanced written and oral communication skills.
 
 February 2023 - April 2023
+
+---
 
 ### [Advanced Database Systems (COMP90050)](https://handbook.unimelb.edu.au/2023/subjects/comp90050)
 
@@ -41,6 +47,8 @@ This subject covers technologies used in advanced databas systems, including top
 
 June 2023 - August 2023 
 
+---
+
 ### [Performance Management Foundations (MANU2469)](http://www1.rmit.edu.au/browse/;CURPOS=1?STYPE=ENTIRE&CLOCATION=Study+at+RMIT%2F&QRY=%2Btype%3Dflexible+%2Bsubtype%3Dheparta+%2Bkeywords%3D%28MANU2469%29+&course=MANU2469&title=&Search=Search)
 
 ### RMIT University (Online)
@@ -48,6 +56,8 @@ June 2023 - August 2023
 In this course students learn how to analyse data captured from engineering enterprises and systems. Students will be introduced to the key planning and control mechanisms for effective outcome and performance management. Students will also learn the general principles and methodologies of data analysis and statistics which form the basis for modelling of engineering systems
 
 February 2023 - April 2023
+
+---
 
 ### [Programming and Software Development (COMP90041)](https://handbook.unimelb.edu.au/2017/subjects/comp90041)
 
