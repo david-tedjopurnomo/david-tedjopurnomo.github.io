@@ -25,6 +25,22 @@ Achieved a 4.02 out of 5.00 mean Good Teaching Score (GTS). Exceeding the school
 
 February 2023 - Present 
 
+### [Research Project (COMP90055)](https://handbook.unimelb.edu.au/2023/subjects/comp90055)
+
+### The University of Melbourne 
+
+This is a research-based project for master's degree where students are involved in in-depth investigation of a significant problem related to computing. The subject also provides students with skills and knowledge for analysing and solving problems, and enhanced written and oral communication skills.
+
+February 2023 - April 2023
+
+### [Advanced Database Systems (COMP90050)](https://handbook.unimelb.edu.au/2023/subjects/comp90050)
+
+### The University of Melbourne
+
+This subject covers technologies used in advanced databas systems, including topics such as: transactions, concurrency, reliability, performance and indexing. This subject will also cover additional topics such as: uncertain data; Xquery; the Semantic Web and the Resource Description Framework; dataspaces and data provenance; datacentres; and data archiving.
+
+June 2023 - August 2023 
+
 ### [Performance Management Foundations (MANU2469)](http://www1.rmit.edu.au/browse/;CURPOS=1?STYPE=ENTIRE&CLOCATION=Study+at+RMIT%2F&QRY=%2Btype%3Dflexible+%2Bsubtype%3Dheparta+%2Bkeywords%3D%28MANU2469%29+&course=MANU2469&title=&Search=Search)
 
 ### RMIT University (Online)
@@ -40,14 +56,6 @@ February 2023 - April 2023
 This subject is aimed for students to develop an understanding of approaches to solving moderately complex problems with computers, and to be able to demonstrate proficiency in designing and writing programs. The programming language used is Java. 
 
 February 2017 - June 2017
-
-### [Advanced Database Systems (COMP90050)](https://handbook.unimelb.edu.au/2023/subjects/comp90050)
-
-### The University of Melbourne
-
-This subject covers technologies used in advanced databas systems, including topics such as: transactions, concurrency, reliability, performance and indexing. This subject will also cover additional topics such as: uncertain data; Xquery; the Semantic Web and the Resource Description Framework; dataspaces and data provenance; datacentres; and data archiving.
-
-June 2023 - August 2023 
 
 
 
