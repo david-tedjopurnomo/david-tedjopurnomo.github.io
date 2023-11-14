@@ -13,7 +13,5 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-  ---
-  ***
-  ___
+  <hr style="border:2px solid gray">
 {% endfor %}
