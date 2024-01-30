@@ -16,7 +16,8 @@ Visiting scholar at Scale@NTU laboratory from August 2019 - January 2020.
 - 2020: ICDE
 - 2021: VLDB, ACM TDS, KDD, SIGIR
 - 2022: ICDE, VLDBJ, WSDM
-- 2023: AAI, DSE, IEEE TIST, IEEE CIC, ADC, TOIS, PVLDB
+- 2023: AAI, DSE, IEEE TIST, IEEE CIC, ADC, ACM TOIS, PVLDB
+- 2024: IEEE ITSM, ACM TOIS
 
 ## Awards & Scholarships
 
