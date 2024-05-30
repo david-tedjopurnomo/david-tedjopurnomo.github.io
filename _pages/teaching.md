@@ -11,7 +11,7 @@ author_profile: true
 
 This subject combines practical spatial data management with the underpinning theories of spatial and spatiotemporal data representation and handling from Geographic Information Science. Students will learn the foundation sof effective, efficient and large-scale spatial data management in both theory in the form of face-to-face lectures and practice in the form of hands-on exercises on weekly laboratories, covering GIS softwares such as PGAdmin and QGIS, as well as the conceptual and logical spatial database design. 
 
-February 2024 - Present
+February 2024 - June 2024
 
 <hr style="border:2px solid gray">
 
@@ -23,7 +23,7 @@ In this subject, students explore how to build software, through learning how to
 
 Achieved a 4.00 out of 5.00 mean Good Teaching Score (GTS). Exceeding the school, college and RMIT mean GTS score. 
 
-April 2023 - Present
+April 2023 - May 2024
 
 <hr style="border:2px solid gray">
 
@@ -35,7 +35,7 @@ This subject introduces programming in a bootcamp style using Java. It covers al
 
 Achieved a 4.02 out of 5.00 mean Good Teaching Score (GTS). Exceeding the school, college and RMIT mean GTS score. 
 
-February 2023 - Present 
+February 2023 - May 2024 
 
 <hr style="border:2px solid gray">
 
