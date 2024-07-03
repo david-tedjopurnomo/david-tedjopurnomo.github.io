@@ -9,7 +9,8 @@ author_profile: true
 Visiting scholar at Scale@NTU laboratory from August 2019 - January 2020.
 
 ## Conference 
-- PC member for ADC 2023 
+- PC member for CIKM 2024
+- PC member for ADC 2023
 
 ## External reviewer
 - 2019: ICDE, VLDB
