@@ -22,6 +22,7 @@ Visiting scholar at Scale@NTU laboratory from August 2019 - January 2020.
 
 ## Awards & Scholarships
 
+- CIKM 2024 Distinguised Reviewer Award
 - RMIT 2023 Higher Degree by Research nomination
 - RMIT 2020 Research Achievement Award, School of Computing Technologies
 - CSIRO Data61 Scholarship: 2018 - 2021
