@@ -5,6 +5,42 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### [Web Programming Studio (COSC3046)](http://www1.rmit.edu.au/browse/;CURPOS=1?STYPE=ENTIRE&CLOCATION=Study+at+RMIT%2F&QRY=%2Btype%3Dflexible+%2Bsubtype%3Dheparta+%2Bkeywords%3D%28COSC3046%29+&course=COSC3046&title=&Search=Search)
+
+### RMIT University
+
+Web Programming Studio is an intermediate studio-based course that focuses on the further acquisition and development of technical and professional skills for IT. The studio-based approach provides an authentic problem setting. Theory and practice are blended in the application of learning centred on the development of web applications. In this course students will develop server-side programming principles, skills and practices for modern web design, development and deployment, continuing the study of design, development and testing from previous courses. 
+
+April 2025 - present
+
+### [Web Programming Bootcamp (COSC3044)](http://www1.rmit.edu.au/browse/;CURPOS=1?STYPE=ENTIRE&CLOCATION=Study+at+RMIT%2F&QRY=%2Btype%3Dflexible+%2Bsubtype%3Dheparta+%2Bkeywords%3D%28COSC3044%29+&course=COSC3044&title=&Search=Search)
+
+### RMIT University
+
+This subject is a technical introduction to web programming techniques, introducing students to the essential concepts of the World Wide Web, and key principles and tools that are used to develop Web applications. The course will provide an overview of Internet technology and introduce students to current web protocol, communication and design, as well as client side programming using HTML, CSS and Javascript. 
+
+March 2025 - present
+
+### [Python Programming Studio (COSC3106)](http://www1.rmit.edu.au/browse/;CURPOS=1?STYPE=ENTIRE&CLOCATION=Study+at+RMIT%2F&QRY=%2Btype%3Dflexible+%2Bsubtype%3Dheparta+%2Bkeywords%3D%28COSC3106%29+&course=COSC3106&title=&Search=Search)
+
+### RMIT University
+
+In this subject, students explore how to build software through learning how to build a simple fully functional data-driven website. This subject combines User-Centred Design (UX/UI) and Database Systems Design, allowing students to explore front-end-to-back-end of software development using Python and SQL, as well as Git for version control. 
+
+April 2025 - present
+
+<hr style="border:2px solid gray">
+
+### [Python Programming Bootcamp (COSC3103)](http://www1.rmit.edu.au/browse/;CURPOS=1?STYPE=ENTIRE&CLOCATION=Study+at+RMIT%2F&QRY=%2Btype%3Dflexible+%2Bsubtype%3Dheparta+%2Bkeywords%3D%28COSC3103%29+&course=COSC3103&title=&Search=Search)
+
+### RMIT University
+
+In this subject, students are introduced to programming in a bootcamp style, covering fundamental concepts of programming, algorithmic developing using standard control structures, and creation of small to medium software applications. 
+
+March 2025 - present
+
+<hr style="border:2px solid gray">
+
 ### [Spatial Data Management (GEOM90008)](https://handbook.unimelb.edu.au/subjects/geom90008)
 
 ### The University of Melbourne 
@@ -23,7 +59,7 @@ In this subject, students explore how to build software, through learning how to
 
 Achieved a 4.00 out of 5.00 Good Teaching Score (GTS). Exceeding the school, college and RMIT mean GTS score. 
 
-April 2023 - May 2024
+April 2023 - present
 
 <hr style="border:2px solid gray">
 
@@ -35,7 +71,7 @@ This subject introduces programming in a bootcamp style using Java. It covers al
 
 Achieved a 4.02 out of 5.00 Good Teaching Score (GTS). Exceeding the school, college and RMIT mean GTS score. 
 
-February 2023 - May 2024 
+February 2023 - present
 
 <hr style="border:2px solid gray">
 
