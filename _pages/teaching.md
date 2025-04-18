@@ -15,7 +15,7 @@ February 2024 - June 2024
 
 <hr style="border:2px solid gray">
 
-### [Programming Studio 1 (COSC2803)](http://www1.rmit.edu.au/courses/054081)
+### [Java Programming Studio (COSC2803)](http://www1.rmit.edu.au/browse/;CURPOS=1?STYPE=ENTIRE&CLOCATION=Study+at+RMIT%2F&QRY=%2Btype%3Dflexible+%2Bsubtype%3Dheparta+%2Bkeywords%3D%28COSC2803%29+&course=COSC2803&title=&Search=Search)
 
 ### RMIT University
 
@@ -27,7 +27,7 @@ April 2023 - May 2024
 
 <hr style="border:2px solid gray">
 
-### [Programming Bootcamp 1 (COSC2801)](http://www1.rmit.edu.au/courses/054079)
+### [Java Programming Bootcamp (COSC2801)](http://www1.rmit.edu.au/browse/;CURPOS=1?STYPE=ENTIRE&CLOCATION=Study+at+RMIT%2F&QRY=%2Btype%3Dflexible+%2Bsubtype%3Dheparta+%2Bkeywords%3D%28COSC2801%29+&course=COSC2801&title=&Search=Search)
 
 ### RMIT University
 
