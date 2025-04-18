@@ -21,7 +21,7 @@ February 2024 - June 2024
 
 In this subject, students explore how to build software, through learning how to build a simple fully functional data-driven website. Students learn about fundamental concepts in User-Centred Design (UX/UI) and Database System that explore the front-end-to-back-end of software development. 
 
-Achieved a 4.00 out of 5.00 mean Good Teaching Score (GTS). Exceeding the school, college and RMIT mean GTS score. 
+Achieved a 4.00 out of 5.00 Good Teaching Score (GTS). Exceeding the school, college and RMIT mean GTS score. 
 
 April 2023 - May 2024
 
@@ -33,7 +33,7 @@ April 2023 - May 2024
 
 This subject introduces programming in a bootcamp style using Java. It covers algorithmic development using standard control structures, fundamental concepts of programming and creation of small to medium practical applications. This will include skills in testing and debugging programs, and in the use of appropriate software technologies. 
 
-Achieved a 4.02 out of 5.00 mean Good Teaching Score (GTS). Exceeding the school, college and RMIT mean GTS score. 
+Achieved a 4.02 out of 5.00 Good Teaching Score (GTS). Exceeding the school, college and RMIT mean GTS score. 
 
 February 2023 - May 2024 
 
