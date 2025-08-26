@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am David Alexander Tedjopurnomo, a Computer Science Lecturer at RMIT University. I graduated with a Ph.D. from RMIT University, Australia. I was supervised by <a href="https://baozhifeng.net">Prof. Zhifeng Bao</a> from RMIT University, <a href="https://sites.google.com/site/farhanamc/">Dr. Farhana Murtaza Choudhury</a> from The University of Melbourne, and <a href="http://www.alexkaiqin.org/">Prof. Kai Qin</a> from Swinburne University of Technology. My research interests are deep neural network, spatio-temporal data mining, and equitable algorithms.
+I am David Alexander Tedjopurnomo. I am a lecturer at RMIT University. I graduated with a Ph.D. from RMIT University, Australia. I was supervised by <a href="https://baozhifeng.net">Prof. Zhifeng Bao</a> from RMIT University, <a href="https://sites.google.com/site/farhanamc/">Dr. Farhana Murtaza Choudhury</a> from The University of Melbourne, and <a href="http://www.alexkaiqin.org/">Prof. Kai Qin</a> from Swinburne University of Technology. My research interests are deep neural network, spatio-temporal data mining, and equitable algorithms.
 
 <a href="../files/docs/CV.pdf">CV Link</a>
 
